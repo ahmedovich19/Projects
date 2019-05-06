@@ -1,2 +1,3 @@
-# The-Hottest-Topics-in-Machine-Learning-analyzing-NIPS-papers-with-NLP
-The NIPS conference (Neural Information Processing Systems) is one of the most prestigious yearly events in the machine learning community. At each NIPS conference, a large number of research papers are published. These papers discuss a wide variety of topics in machine learning, from neural networks to optimization methods and many more. we will focus on analyzing these papers with natural language processing using Python, pandas, sklearn, and the latent Dirichlet allocation (LDA) methods.
+Project Description
+
+Neural Information Processing Systems (NIPS) is one of the top machine learning conferences in the world where groundbreaking work is published. In this Project, you will analyze a large collection of NIPS research papers from the past decade to discover the latest trends in machine learning. The techniques used here to handle large amounts of data can be applied to other text datasets as well.
