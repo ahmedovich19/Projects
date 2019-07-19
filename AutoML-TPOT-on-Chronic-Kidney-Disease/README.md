@@ -1,0 +1,6 @@
+***TPOT on Chronic Kidney Disease***
+
+TPOT is a Python Automated Machine Learning tool that optimizes machine learning pipelines using genetic programming.TPOT will automate the most tedious part of machine learning by intelligently exploring thousands of possible pipelines to find the best one for your data.Once TPOT is finished searching (or you get tired of waiting), it provides you with the Python code for the best pipeline it found so you can tinker with the pipeline from there.
+I will use ***Chronic Kidney Disease*** dataset from ***UC Irvine Machine Learning Repository*** to demonstrate the implementation of ***TPOT***.This dataset can be used to predict the ***chronic kidney disease*** and it can be collected from the hospital nearly 2 months of period.
+This dataset contains ***25 features*** and ***400 rows*** .I made two implementations. In the first implementation (***tpot_Chronic_Kidney_Disease _with_DV.ipynb***) i coded the categorical variables into numerical values using Scikit-learn's ***[DictVectorizer]***
+and in the second implementation (***tpot_Chronic_Kidney_Disease _with_MLB.ipynb***) i coded the categorical variables into numerical values using  ***[MultiLabelBinarizer]***. You can chose just one file to study.
